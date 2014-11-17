@@ -44,3 +44,4 @@ b := [..]string{"Penn", "Teller"}
  10. [Debugging Go code with gdb](https://golang.org/doc/gdb)
  11. [Hopwatch](http://ernestmicklei.com/2012/12/14/hopwatch-a-debugging-tool-for-go/) a debugging tool for Go
  12. [Gopher Go](http://vluxe.io/)
+ 13. [Developing web applications in Go](http://codegangsta.gitbooks.io/building-web-apps-with-go/)
