@@ -45,3 +45,13 @@ b := [..]string{"Penn", "Teller"}
  11. [Hopwatch](http://ernestmicklei.com/2012/12/14/hopwatch-a-debugging-tool-for-go/) a debugging tool for Go
  12. [Gopher Go](http://vluxe.io/)
  13. [Developing web applications in Go](http://codegangsta.gitbooks.io/building-web-apps-with-go/)
+ 14. . [Go by example](https://gobyexample.com/)
+ 2. [Build You Own Web Framework In Go](http://nicolasmerouze.com/build-web-framework-golang/)
+ 2. [Beego Web Framework](http://beego.me/)
+ 3. [Revel web framework]()
+ 4. Sinatra-style web frameworks. Martini, [Goji](https://github.com/zenazn/goji), [Gin](http://gin-gonic.github.io/gin/) and [gocraft/web](https://github.com/gocraft/web)
+ 5. [Gorilla web toolkit](http://www.gorillatoolkit.org/)
+ 6. [Golang Exercises](https://gist.github.com/zyxar/2317744)
+ 7. [Go Development Setup](http://blog.tideland.biz/2013-07-09-go-environment-setup)
+ 8. [How to use interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
+ 9. [Go in a nutshell](https://github.com/basti1302/go-lang-cheat-sheet#go-in-a-nutshell)
