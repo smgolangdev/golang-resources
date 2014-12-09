@@ -115,4 +115,5 @@ However, the best option is to use the [golang implementation](https://github.co
  7. [Go Development Setup](http://blog.tideland.biz/2013-07-09-go-environment-setup)
  8. [How to use interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
  9. [Go in a nutshell](https://github.com/basti1302/go-lang-cheat-sheet#go-in-a-nutshell)
+ 10. [Interface upgrades in GO](http://avtok.com/2014/11/05/interface-upgrades.html)
 
