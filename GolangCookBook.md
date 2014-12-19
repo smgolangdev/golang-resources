@@ -124,7 +124,8 @@ How to create gopher like presentation slides using **present**?
  3. See more example slides [here.](https://github.com/golang/talks/tree/master/2014)
  4. Run $GOPATH/bin/present from the directory containing your .slide files
  5. Point your browser to http://127.0,0,1:3999
- 6. 
+ 6. [go-talks.appspot](http://go-talks.appspot.com/#TOC_1.) site allows you to run your slides from github
+
 References
 
 1. Go lang project [examples](https://github.com/golang/example)
