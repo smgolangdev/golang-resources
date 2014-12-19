@@ -116,4 +116,17 @@ However, the best option is to use the [golang implementation](https://github.co
 
 ###11. Web 
 
+### Go Present
+How to create gopher like presentation slides using **present**?
+
+ 1. go get golang.org/x/tools/cmd/present
+ 2. Write your **.slide** files in [google present format]()
+ 3. See more example slides [here.](https://github.com/golang/talks/tree/master/2014)
+ 4. Run $GOPATH/bin/present from the directory containing your .slide files
+ 5. Point your browser to http://127.0,0,1:3999
+ 6. 
+References
+
+1. Go lang project [examples](https://github.com/golang/example)
+
  
