@@ -27,7 +27,9 @@ gobot.io  Comment
 Installing Go and configuring your workspace
 
 Start here to learn how to set up a workspace to write Go code.
+
 [How to Write Go Code](http://golang.org/doc/code.html)
+
 [Writing, building, installing, and testing Go code](https://www.youtube.com/watch?v=XCsL89YtqCs)
 
 ####Online resources
@@ -35,17 +37,29 @@ Start here to learn how to set up a workspace to write Go code.
 Once you’ve got your environment set up, here are some excellent resources to learn Go.
 
 [The Go programming language tour](http://tour.golang.org/#1)
+
 [The Go Bootcamp Book](http://www.golangbootcamp.com/book/), everything you need to know to get started with Go, by Matt Aimonetti.
+
 [Go by example](https://gobyexample.com/)
+
 [Effective Go](http://golang.org/doc/effective_go.html)
+
 [The Go language FAQ](http://golang.org/doc/faq)
+
 [The Go style guide](https://code.google.com/p/go-wiki/wiki/Style)
+
 [Going Go Programming](http://www.goinggo.net/) by WIlliam Kennedy
 
+[Go Concurrency Patterns - Pipelines and Cancellations](http://blog.golang.org/pipelines)
+
 ####Tutorials
+
 [Writing table driven tests in Go](http://dave.cheney.net/2013/06/09/writing-table-driven-tests-in-go)
+
 [Writing benchmarks in Go](http://dave.cheney.net/2013/06/30/how-to-write-benchmarks-in-go)
+
 [Learn X in Y minutes](http://learnxinyminutes.com/docs/go/) (where X == Go) by Sonia Keys
+
 [Tutorial: Go (Golang) Pointers in 5 Minutes](http://www.giantflyingsaucer.com/blog/?p=4720)
 
 ####Books
