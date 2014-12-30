@@ -74,6 +74,9 @@ Once you’ve got your environment set up, here are some excellent resources to 
 
 [Groupcache Experiment](https://github.com/capotej/groupcache-db-experiment)
 
+[Go Fresh - Build and (re)start go web apps after saving/creating/deleting source files.](https://github.com/pilu/fresh)
+
+
 #### Go Articles
 [Common Go Mistakes](http://soryy.com/blog/2014/common-mistakes-with-go-lang/)
 
