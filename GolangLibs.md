@@ -33,6 +33,9 @@ Start here to learn how to set up a workspace to write Go code.
 
 [Writing, building, installing, and testing Go code](https://www.youtube.com/watch?v=XCsL89YtqCs)
 
+[Go code layout](https://code.google.com/p/jmcvetta-contrib/wiki/GithubCodeLayout)
+
+
 ####Online resources
 
 Once you’ve got your environment set up, here are some excellent resources to learn Go.
@@ -53,6 +56,27 @@ Once you’ve got your environment set up, here are some excellent resources to 
 
 [Go Concurrency Patterns - Pipelines and Cancellations](http://blog.golang.org/pipelines)
 
+[Go Language Patterns](https://sites.google.com/site/gopatterns/)
+
+[Go Samples](https://github.com/golang-samples)
+
+[Go examples from Tumblr](http://golang-examples.tumblr.com/)
+
+[Go Articles](https://github.com/golang/go/wiki/Articles)
+
+[Real life Concurrency in Go](http://matt.aimonetti.net/posts/2012/11/27/real-life-concurrency-in-go/)
+
+[Application Development in Go](http://jasonroelofs.com/2013/08/01/application-development-in-go/)
+
+[Goagain - Zero time restarts in Go](https://github.com/rcrowley/goagain)
+
+[GroupCache - a replacement for Memcache](https://github.com/golang/groupcache)
+
+[Groupcache Experiment](https://github.com/capotej/groupcache-db-experiment)
+
+#### Go Articles
+[Common Go Mistakes](http://soryy.com/blog/2014/common-mistakes-with-go-lang/)
+
 ####Tutorials
 
 [Writing table driven tests in Go](http://dave.cheney.net/2013/06/09/writing-table-driven-tests-in-go)
@@ -62,6 +86,8 @@ Once you’ve got your environment set up, here are some excellent resources to 
 [Learn X in Y minutes](http://learnxinyminutes.com/docs/go/) (where X == Go) by Sonia Keys
 
 [Tutorial: Go (Golang) Pointers in 5 Minutes](http://www.giantflyingsaucer.com/blog/?p=4720)
+
+[More Go stuff](https://github.com/mindreframer/golang-stuff)
 
 ####Books
 
