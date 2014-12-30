@@ -5,6 +5,7 @@ Golang Tools and Libraries
 1. Gorilla Web Toolkit
 2. Ravel
 3. Beegee
+4. [Topo](https://github.com/mdmarek/topo) - A library to create in process topologies of goroutines connected by channels.
 
 ### Databases
 
