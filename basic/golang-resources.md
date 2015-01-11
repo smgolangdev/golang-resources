@@ -55,3 +55,4 @@ b := [..]string{"Penn", "Teller"}
  7. [Go Development Setup](http://blog.tideland.biz/2013-07-09-go-environment-setup)
  8. [How to use interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
  9. [Go in a nutshell](https://github.com/basti1302/go-lang-cheat-sheet#go-in-a-nutshell)
+ 10.[Fast, Scalable Networking in Go with Mangos](http://www.bravenewgeek.com/)
