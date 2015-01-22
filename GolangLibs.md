@@ -20,6 +20,7 @@ Golang Tools and Libraries
 ####Misc Libs
 [Gobot](http://gobot.io/) - Golang framework for robotics, physical computing, and the Internet of Things 
 gobot.io  Comment
+[GoTalk]()
 [Testflight](https://github.com/drewolson/testflight)
 [GoCQL](https://github.com/gocql/gocql) - Package gocql implements a fast and robust Cassandra client for the Go programming language.
 
