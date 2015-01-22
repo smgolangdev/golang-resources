@@ -22,7 +22,9 @@ Golang Tools and Libraries
 gobot.io  Comment
 
 [GoTalk](http://rsms.me/2015/01/21/gotalk.html)
+
 [Testflight](https://github.com/drewolson/testflight)
+
 [GoCQL](https://github.com/gocql/gocql) - Package gocql implements a fast and robust Cassandra client for the Go programming language.
 
 ###Resources for new Go programmers
