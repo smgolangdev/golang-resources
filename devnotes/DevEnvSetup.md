@@ -37,7 +37,7 @@ Go Development Environment Setup Notes
 Install gvm and then manage golang versions and installs. One can work with multiple golang versions if via gvm.
 Pre-requisites for gvm - install mercurial and curl
 ```shell
-    sudo apt-get install -y curl mercurial
+    sudo apt-get install -y curl mercurial bison
 ```
 Install gvm and golang version 1.3.3.
 ```shell
