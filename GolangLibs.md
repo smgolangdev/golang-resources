@@ -82,6 +82,9 @@ Once you’ve got your environment set up, here are some excellent resources to 
 
 [Go Koans](https://github.com/cdarwin/go-koans)
 
+[Sequence - A fast log scanner in go.](http://zhen.org/blog/sequence-high-performance-sequential-semantic-log--parser/)
+
+
 
 #### Go Articles
 [Common Go Mistakes](http://soryy.com/blog/2014/common-mistakes-with-go-lang/)
